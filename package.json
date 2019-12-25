@@ -1,0 +1,11 @@
+{
+  "name": "chai-project",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "pre-commit": [
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {}
+}
